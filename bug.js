@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Image` component with a URI that's either invalid or inaccessible.  It might not always throw a clear error message, making debugging difficult. The image might simply not appear, or you could see a generic network error in your console logs.
